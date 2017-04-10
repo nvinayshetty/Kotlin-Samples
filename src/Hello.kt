@@ -6,11 +6,11 @@ fun main(args:Array<String>){
 }
 
 fun declareVariables() {
-    val a:Int=5
-    val b:Float=2.3f
-    val c:Double=2.35e2
-    val d:Long=500
-    val f:String="Hello"
+    val a=5
+    val b=2.3f
+    val c=2.35e2
+    val d=500
+    val f="Hello"
     println("$a $b $c $d $f")
 
     val e:Int //Need not to initialize the value at the time of declaration
